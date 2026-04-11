@@ -1,0 +1,3 @@
+com\appshala\emailnotificationservice\serviceImpl\MailService.class
+com\appshala\emailnotificationservice\config\EmailConfig.class
+com\appshala\emailnotificationservice\EmailnotificationserviceApplication.class
